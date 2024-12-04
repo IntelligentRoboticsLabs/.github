@@ -5,7 +5,6 @@ We are the Intelligent Robotics Lab, a team of robotics researchers from Rey Jua
 </p>
 <p align="center"> 
   <a href="https://x.com/IntellRobotLabs" target="blank"><img src="https://github.com/IntelligentRoboticsLabs/.github/blob/main/x_logo.png" width="80" alt=""/></a>
-  <a href="http://naboo.eif.urjc.es/" target="blank"><img src="https://github.com/IntelligentRoboticsLabs/.github/blob/main/logo_web.png" width="80" alt=""/></a> 
 </p>
 
 <h2 align="center">Projects</h2>
